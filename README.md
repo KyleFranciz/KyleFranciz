@@ -1,4 +1,4 @@
-# Hello There 👋🏽 I'm Kyle  
+# Hey 👋🏽 I'm Kyle  
 
 **`Just a CS student passionate about learning and building.`**  
 
