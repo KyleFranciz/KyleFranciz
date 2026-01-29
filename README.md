@@ -1,6 +1,6 @@
 # Hey 👋🏽 I'm Kyle  
 
-**`Just an CS student passionate about learning and building different full-stack agentic tools & applications.`**  
+**`Just an Junior CS student passionate about learning and building different full-stack applications, agentic tools & applications and improving as an engineer.`**  
 
 ---
 
