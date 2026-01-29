@@ -14,20 +14,26 @@ Here are a few projects I've been working on:
 
 ## 🛠 Tech Stack  
 
-**Languages**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java" />
-</p>
+**Languages:**  
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
-**Frameworks & Libraries**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" />
-</p>
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Developer Tools & Databases**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,mongodb,figma,supabase" />
-</p>
+**Developer Tools & Databases:**  
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -42,14 +48,8 @@ My goal is to grow as a Software Engineer where I can continue building scalable
 
 ---
 
-## 📫 Contact  
-<p align="left">
-  <a href="mailto:kylefrancisdev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kyle-a-francis/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-</p>
+## 📫 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-a-francis/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kylefrancisdev@gmail.com)
 
 ---
