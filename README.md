@@ -1,14 +1,14 @@
 # Hey 👋🏽 I'm Kyle  
 
-**`Just an Software Engineer passionate about learning and building.`**  
+**`Just an CS student passionate about learning and building different full-stack agentic tools & applications.`**  
 
 ---
 
 ## 📂 Featured Projects  
 Here are a few projects I’ve been working on:  
 
-- 📚 **Doc Ai** – A local AI coding assistant using LangChain + Ollama to understand documentation and assist with coding tasks.  
-- 🎥 **Ani-Loaded** – A full-stack web app with FastAPI, Supabase, and React to track and recommend anime.
+- 📚 **Doc Ai** – A local offline AI document intellegence application using LangChain + Ollama to understand documentation, notes, and different files and assist with answering questions on assignment infromation I may need.  
+- 🎥 **Ani-Loaded** – A full-stack web app with FastAPI, Langchain, PgVector and React to create anime list, search anime info and uses RAG to help with retrieving related anime.
 
 ---
 
